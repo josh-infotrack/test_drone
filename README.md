@@ -5,7 +5,7 @@ This is a simple demo of a setting up a drone service for testing. The software
 system will test against mongodb, intialised with a specific dataset.
 
 The service section will use the mongo image, but with no parameters - starting
-up an ephemeral mongodb listening on 127.0.0.1. So at the end everything will be
+up an ephemeral mongodb listening onasdsadasd 127.0.0.1. So at the end everything will be
 torndown. Great for testing. This will be started first.
 
 The test-prep section will load data into this ephermeral database (the mongo import)
